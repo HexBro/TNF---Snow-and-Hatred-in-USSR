@@ -1,348 +1,348 @@
 # 3.0.8
 
 [Proto]
-ProtoId=30000
+ProtoId=27000
 Type=11
-PicMap=art/New Art/Scenery/Buhanka.png
-PicInv=art/New Art/Scenery/Buhanka.png
+PicMap=art\New Art\Scenery\Buhanka.png
+PicInv=art\New Art\Scenery\Buhanka.png
 Flags=33554432
 Material=1
 
 [Proto]
-ProtoId=30001
+ProtoId=27001
 Type=11
-PicMap=art/New Art/Scenery/Buhanka_Med.png
-PicInv=art/New Art/Scenery/Buhanka_Med.png
+PicMap=art\New Art\Scenery\Buhanka_Med.png
+PicInv=art\New Art\Scenery\Buhanka_Med.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30002
+ProtoId=27002
 Type=11
-PicMap=art/New Art/Scenery/Buhanka_Snow.png
-PicInv=art/New Art/Scenery/Buhanka_Snow.png
+PicMap=art\New Art\Scenery\Buhanka_Snow.png
+PicInv=art\New Art\Scenery\Buhanka_Snow.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30003
+ProtoId=27003
 Type=11
-PicMap=art/New Art/Scenery/Buhanka_Med_Snow.png
-PicInv=art/New Art/Scenery/Buhanka_Med_Snow.png
+PicMap=art\New Art\Scenery\Buhanka_Med_Snow.png
+PicInv=art\New Art\Scenery\Buhanka_Med_Snow.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30004
+ProtoId=27004
 Type=11
-PicMap=art/New Art/Scenery/Niva_Left.png
-PicInv=art/New Art/Scenery/Niva_Left.png
+PicMap=art\New Art\Scenery\Niva_Left.png
+PicInv=art\New Art\Scenery\Niva_Left.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30005
+ProtoId=27005
 Type=11
-PicMap=art/New Art/Scenery/Niva_Right.png
-PicInv=art/New Art/Scenery/Niva_Right.png
+PicMap=art\New Art\Scenery\Niva_Right.png
+PicInv=art\New Art\Scenery\Niva_Right.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30006
+ProtoId=27006
 Type=11
-PicMap=art/New Art/Scenery/Niva_SnowLeft.png
-PicInv=art/New Art/Scenery/Niva_SnowLeft.png
+PicMap=art\New Art\Scenery\Niva_SnowLeft.png
+PicInv=art\New Art\Scenery\Niva_SnowLeft.png
 Corner=2
 Flags=33554944
 
 [Proto]
-ProtoId=30007
+ProtoId=27007
 Type=11
-PicMap=art/New Art/Scenery/Niva_SnowRight.png
-PicInv=art/New Art/Scenery/Niva_SnowRight.png
+PicMap=art\New Art\Scenery\Niva_SnowRight.png
+PicInv=art\New Art\Scenery\Niva_SnowRight.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30008
+ProtoId=27008
 Type=11
-PicMap=art/New Art/Scenery/UAZ_Musorskoy_Snow.png
-PicInv=art/New Art/Scenery/UAZ_Musorskoy_Snow.png
+PicMap=art\New Art\Scenery\UAZ_Musorskoy_Snow.png
+PicInv=art\New Art\Scenery\UAZ_Musorskoy_Snow.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30009
+ProtoId=27009
 Type=11
-PicMap=art/New Art/Scenery/UAZ_Musorskoy1.png
-PicInv=art/New Art/Scenery/UAZ_Musorskoy1.png
+PicMap=art\New Art\Scenery\UAZ_Musorskoy1.png
+PicInv=art\New Art\Scenery\UAZ_Musorskoy1.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30010
+ProtoId=27010
 Type=11
-PicMap=art/New Art/Scenery/ChaiCar.png
-PicInv=art/New Art/Scenery/ChaiCar.png
+PicMap=art\New Art\Scenery\ChaiCar.png
+PicInv=art\New Art\Scenery\ChaiCar.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30011
+ProtoId=27011
 Type=11
-PicMap=art/New Art/Scenery/PAZ_Snow1.png
-PicInv=art/New Art/Scenery/PAZ_snow1.png
+PicMap=art\New Art\Scenery\PAZ_Snow1.png
+PicInv=art\New Art\Scenery\PAZ_snow1.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30012
+ProtoId=27012
 Type=11
-PicMap=art/New Art/Scenery/PAZ_Snow2.png
-PicInv=art/New Art/Scenery/PAZ_Snow2.png
+PicMap=art\New Art\Scenery\PAZ_Snow2.png
+PicInv=art\New Art\Scenery\PAZ_Snow2.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30013
+ProtoId=27013
 Type=11
-PicMap=art/New Art/Scenery/PAZ1.png
-PicInv=art/New Art/Scenery/PAZ1.png
+PicMap=art\New Art\Scenery\PAZ1.png
+PicInv=art\New Art\Scenery\PAZ1.png
 Corner=1
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30014
+ProtoId=27014
 Type=11
-PicMap=art/New Art/Scenery/PAZ2.png
-PicInv=art/New Art/Scenery/PAZ2.png
+PicMap=art\New Art\Scenery\PAZ2.png
+PicInv=art\New Art\Scenery\PAZ2.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30015
+ProtoId=27015
 Type=11
-PicMap=art/New Art/Scenery/CAR1_Snow.png
-PicInv=art/New Art/Scenery/CAR1_Snow.png
+PicMap=art\New Art\Scenery\CAR1_Snow.png
+PicInv=art\New Art\Scenery\CAR1_Snow.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30016
+ProtoId=27016
 Type=11
-PicMap=art/New Art/Scenery/CAR2_Snow.png
-PicInv=art/New Art/Scenery/CAR2_Snow.png
+PicMap=art\New Art\Scenery\CAR2_Snow.png
+PicInv=art\New Art\Scenery\CAR2_Snow.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30017
+ProtoId=27017
 Type=11
-PicMap=art/New Art/Scenery/Kopeika_Snow1.png
+PicMap=art\New Art\Scenery\Kopeika_Snow1.png
 PicInv=Art/Scenery/Kopeika_Snow1.png
 Corner=5
 Flags=33554944
 
 [Proto]
-ProtoId=30018
+ProtoId=27018
 Type=11
-PicMap=art/New Art/Scenery/Kopeika_Snow2.png
-PicInv=art/New Art/Scenery/Kopeika_Snow2.png
+PicMap=art\New Art\Scenery\Kopeika_Snow2.png
+PicInv=art\New Art\Scenery\Kopeika_Snow2.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30019
+ProtoId=27019
 Type=11
-PicMap=art/New Art/Scenery/Kopeika1.png
-PicInv=art/New Art/Scenery/Kopeika1.png
+PicMap=art\New Art\Scenery\Kopeika1.png
+PicInv=art\New Art\Scenery\Kopeika1.png
 Corner=5
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30020
+ProtoId=27020
 Type=11
-PicMap=art/New Art/Scenery/Kopeika2.png
-PicInv=art/New Art/Scenery/Kopeika2.png
+PicMap=art\New Art\Scenery\Kopeika2.png
+PicInv=art\New Art\Scenery\Kopeika2.png
 Corner=2
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30021
+ProtoId=27021
 Type=11
-PicMap=art/New Art/Scenery/USSRSTATUE.png
-PicInv=art/New Art/Scenery/USSRSTATUE.png
+PicMap=art\New Art\Scenery\USSRSTATUE.png
+PicInv=art\New Art\Scenery\USSRSTATUE.png
 
 [Proto]
-ProtoId=30022
+ProtoId=27022
 Type=11
-PicMap=art/New Art/Scenery/USSRSTATUE_UnderSnow.png
-PicInv=art/New Art/Scenery/USSRSTATUE_UnderSnow.png
+PicMap=art\New Art\Scenery\USSRSTATUE_UnderSnow.png
+PicInv=art\New Art\Scenery\USSRSTATUE_UnderSnow.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30023
+ProtoId=27023
 Type=11
-PicMap=art/New Art/Scenery/USSR50.png
-PicInv=art/New Art/Scenery/USSR50.png
+PicMap=art\New Art\Scenery\USSR50.png
+PicInv=art\New Art\Scenery\USSR50.png
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30024
+ProtoId=27024
 Type=11
-PicMap=art/New Art/Scenery/USSR50_Snow.png
-PicInv=art/New Art/Scenery/USSR50_Snow.png
+PicMap=art\New Art\Scenery\USSR50_Snow.png
+PicInv=art\New Art\Scenery\USSR50_Snow.png
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30025
+ProtoId=27025
 Type=11
-PicMap=art/New Art/Scenery/Ikarus.png
-PicInv=art/New Art/Scenery/Ikarus.png
+PicMap=art\New Art\Scenery\Ikarus.png
+PicInv=art\New Art\Scenery\Ikarus.png
 Corner=4
 Flags=33554944
 Material=1
 
 [Proto]
-ProtoId=30026
+ProtoId=27026
 Type=11
-PicMap=art/New Art/Scenery/Sugrob3.png
-PicInv=art/New Art/Scenery/Sugrob3.png
+PicMap=art\New Art\Scenery\Sugrob3.png
+PicInv=art\New Art\Scenery\Sugrob3.png
 Flags=24
 
 [Proto]
-ProtoId=30027
+ProtoId=27027
 Type=11
-PicMap=art/New Art/Scenery/Sugrob1.png
-PicInv=art/New Art/Scenery/Sugrob1.png
+PicMap=art\New Art\Scenery\Sugrob1.png
+PicInv=art\New Art\Scenery\Sugrob1.png
 Flags=24
 
 [Proto]
-ProtoId=30028
+ProtoId=27028
 Type=11
-PicMap=art/New Art/Scenery/Sugrob2.png
-PicInv=art/New Art/Scenery/Sugrob2.png
+PicMap=art\New Art\Scenery\Sugrob2.png
+PicInv=art\New Art\Scenery\Sugrob2.png
 Flags=24
 
 [Proto]
-ProtoId=30029
+ProtoId=27029
 Type=11
-PicMap=art/New Art/Scenery/Sugrob4.png
-PicInv=art/New Art/Scenery/Sugrob4.png
+PicMap=art\New Art\Scenery\Sugrob4.png
+PicInv=art\New Art\Scenery\Sugrob4.png
 Flags=24
 
 [Proto]
-ProtoId=30030
+ProtoId=27030
 Type=11
-PicMap=art/New Art/Scenery/Sugrob5.png
-PicInv=art/New Art/Scenery/Sugrob5.png
+PicMap=art\New Art\Scenery\Sugrob5.png
+PicInv=art\New Art\Scenery\Sugrob5.png
 Flags=24
 
 [Proto]
-ProtoId=30031
+ProtoId=27031
 Type=11
-PicMap=art/New Art/Scenery/Sugrob6.png
-PicInv=art/New Art/Scenery/Sugrob6.png
+PicMap=art\New Art\Scenery\Sugrob6.png
+PicInv=art\New Art\Scenery\Sugrob6.png
 Flags=24
 
 [Proto]
-ProtoId=30032
+ProtoId=27032
 Type=11
-PicMap=art/New Art/Scenery/Sugrob7.png
-PicInv=art/New Art/Scenery/Sugrob7.png
+PicMap=art\New Art\Scenery\Sugrob7.png
+PicInv=art\New Art\Scenery\Sugrob7.png
 Flags=24
 
 [Proto]
-ProtoId=30033
+ProtoId=27033
 Type=11
-PicMap=art/New Art/Scenery/Sugrob8.png
-PicInv=art/New Art/Scenery/Sugrob8.png
+PicMap=art\New Art\Scenery\Sugrob8.png
+PicInv=art\New Art\Scenery\Sugrob8.png
 Flags=24
 
 [Proto]
-ProtoId=30034
+ProtoId=27034
 Type=11
-PicMap=art/New Art/Scenery/Sugrob9.png
-PicInv=art/New Art/Scenery/Sugrob9.png
+PicMap=art\New Art\Scenery\Sugrob9.png
+PicInv=art\New Art\Scenery\Sugrob9.png
 Flags=24
 
 [Proto]
-ProtoId=30035
+ProtoId=27035
 Type=11
-PicMap=art/New Art/Scenery/Sugrob10.png
-PicInv=art/New Art/Scenery/Sugrob10.png
+PicMap=art\New Art\Scenery\Sugrob10.png
+PicInv=art\New Art\Scenery\Sugrob10.png
 Flags=24
 
 [Proto]
-ProtoId=30036
+ProtoId=27036
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow1.png
-PicInv=art/New Art/Scenery/MountainSnow1.png
+PicMap=art\New Art\Scenery\MountainSnow1.png
+PicInv=art\New Art\Scenery\MountainSnow1.png
 Flags=33554974
 
 [Proto]
-ProtoId=30037
+ProtoId=27037
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow2.png
-PicInv=art/New Art/Scenery/MountainSnow2.png
+PicMap=art\New Art\Scenery\MountainSnow2.png
+PicInv=art\New Art\Scenery\MountainSnow2.png
 Flags=33554974
 
 [Proto]
-ProtoId=30038
+ProtoId=27038
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow3.png
-PicInv=art/New Art/Scenery/MountainSnow3.png
+PicMap=art\New Art\Scenery\MountainSnow3.png
+PicInv=art\New Art\Scenery\MountainSnow3.png
 Flags=33554974
 
 [Proto]
-ProtoId=30039
+ProtoId=27039
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow4.png
-PicInv=art/New Art/Scenery/MountainSnow4.png
+PicMap=art\New Art\Scenery\MountainSnow4.png
+PicInv=art\New Art\Scenery\MountainSnow4.png
 Flags=33554974
 
 [Proto]
-ProtoId=30040
+ProtoId=27040
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow5.png
-PicInv=art/New Art/Scenery/MountainSnow5.png
+PicMap=art\New Art\Scenery\MountainSnow5.png
+PicInv=art\New Art\Scenery\MountainSnow5.png
 Flags=33554974
 
 [Proto]
-ProtoId=30041
+ProtoId=27041
 Type=11
-PicMap=art/New Art/Scenery/MountainSnow12.png
-PicInv=art/New Art/Scenery/MountainSnow12.png
+PicMap=art\New Art\Scenery\MountainSnow12.png
+PicInv=art\New Art\Scenery\MountainSnow12.png
 Flags=33554974
 
 [Proto]
-ProtoId=30042
+ProtoId=27042
 Type=11
-PicMap=art/New Art/Scenery/ELKA1.png
-PicInv=art/New Art/Scenery/ELKA1.png
+PicMap=art\New Art\Scenery\ELKA1.png
+PicInv=art\New Art\Scenery\ELKA1.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -350,10 +350,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30043
+ProtoId=27043
 Type=11
-PicMap=art/New Art/Scenery/ELKA2.png
-PicInv=art/New Art/Scenery/ELKA2.png
+PicMap=art\New Art\Scenery\ELKA2.png
+PicInv=art\New Art\Scenery\ELKA2.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -361,10 +361,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30044
+ProtoId=27044
 Type=11
-PicMap=art/New Art/Scenery/ELKA3.png
-PicInv=art/New Art/Scenery/ELKA3.png
+PicMap=art\New Art\Scenery\ELKA3.png
+PicInv=art\New Art\Scenery\ELKA3.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -372,10 +372,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30045
+ProtoId=27045
 Type=11
-PicMap=art/New Art/Scenery/ELKA4.png
-PicInv=art/New Art/Scenery/ELKA4.png
+PicMap=art\New Art\Scenery\ELKA4.png
+PicInv=art\New Art\Scenery\ELKA4.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -383,146 +383,146 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30046
+ProtoId=27046
 Type=11
-PicMap=art/New Art/Scenery/Oplot_OuterDoor.png
-PicInv=art/New Art/Scenery/Oplot_OuterDoor.png
+PicMap=art\New Art\Scenery\Oplot_OuterDoor.png
+PicInv=art\New Art\Scenery\Oplot_OuterDoor.png
 Flags=33554446
 Material=5
 
 [Proto]
-ProtoId=30047
+ProtoId=27047
 Type=9
-PicMap=art/New Art/Scenery/USSR_BlastDoor.FRM
-PicInv=art/New Art/Scenery/USSR_BlastDoor.FRM
+PicMap=art\New Art\Scenery\USSR_BlastDoor.FRM
+PicInv=art\New Art\Scenery\USSR_BlastDoor.FRM
 Flags=268439552
 Material=1
 
 [Proto]
-ProtoId=30048
+ProtoId=27048
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall1.FRM
-PicInv=art/New Art/Scenery/SnowSmall1.FRM
+PicMap=art\New Art\Scenery\SnowSmall1.FRM
+PicInv=art\New Art\Scenery\SnowSmall1.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30049
+ProtoId=27049
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall2.FRM
-PicInv=art/New Art/Scenery/SnowSmall2.FRM
+PicMap=art\New Art\Scenery\SnowSmall2.FRM
+PicInv=art\New Art\Scenery\SnowSmall2.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30050
+ProtoId=27050
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall3.FRM
-PicInv=art/New Art/Scenery/SnowSmall3.FRM
+PicMap=art\New Art\Scenery\SnowSmall3.FRM
+PicInv=art\New Art\Scenery\SnowSmall3.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30051
+ProtoId=27051
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall4.FRM
-PicInv=art/New Art/Scenery/SnowSmall4.FRM
+PicMap=art\New Art\Scenery\SnowSmall4.FRM
+PicInv=art\New Art\Scenery\SnowSmall4.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30052
+ProtoId=27052
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall5.FRM
-PicInv=art/New Art/Scenery/SnowSmall5.FRM
+PicMap=art\New Art\Scenery\SnowSmall5.FRM
+PicInv=art\New Art\Scenery\SnowSmall5.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30053
+ProtoId=27053
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall6.FRM
-PicInv=art/New Art/Scenery/SnowSmall6.FRM
+PicMap=art\New Art\Scenery\SnowSmall6.FRM
+PicInv=art\New Art\Scenery\SnowSmall6.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30054
+ProtoId=27054
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall7.FRM
-PicInv=art/New Art/Scenery/SnowSmall7.FRM
+PicMap=art\New Art\Scenery\SnowSmall7.FRM
+PicInv=art\New Art\Scenery\SnowSmall7.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30055
+ProtoId=27055
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall8.FRM
-PicInv=art/New Art/Scenery/SnowSmall8.FRM
+PicMap=art\New Art\Scenery\SnowSmall8.FRM
+PicInv=art\New Art\Scenery\SnowSmall8.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30056
+ProtoId=27056
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall9.FRM
-PicInv=art/New Art/Scenery/SnowSmall9.FRM
+PicMap=art\New Art\Scenery\SnowSmall9.FRM
+PicInv=art\New Art\Scenery\SnowSmall9.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30057
+ProtoId=27057
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall10.FRM
-PicInv=art/New Art/Scenery/SnowSmall10.FRM
+PicMap=art\New Art\Scenery\SnowSmall10.FRM
+PicInv=art\New Art\Scenery\SnowSmall10.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30058
+ProtoId=27058
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall11.FRM
-PicInv=art/New Art/Scenery/SnowSmall11.FRM
+PicMap=art\New Art\Scenery\SnowSmall11.FRM
+PicInv=art\New Art\Scenery\SnowSmall11.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30059
+ProtoId=27059
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall12.FRM
-PicInv=art/New Art/Scenery/SnowSmall12.FRM
+PicMap=art\New Art\Scenery\SnowSmall12.FRM
+PicInv=art\New Art\Scenery\SnowSmall12.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30060
+ProtoId=27060
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall13.FRM
-PicInv=art/New Art/Scenery/SnowSmall13.FRM
+PicMap=art\New Art\Scenery\SnowSmall13.FRM
+PicInv=art\New Art\Scenery\SnowSmall13.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30061
+ProtoId=27061
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall14.FRM
-PicInv=art/New Art/Scenery/SnowSmall14.FRM
+PicMap=art\New Art\Scenery\SnowSmall14.FRM
+PicInv=art\New Art\Scenery\SnowSmall14.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30062
+ProtoId=27062
 Type=11
-PicMap=art/New Art/Scenery/SnowSmall15.FRM
-PicInv=art/New Art/Scenery/SnowSmall15.FRM
+PicMap=art\New Art\Scenery\SnowSmall15.FRM
+PicInv=art\New Art\Scenery\SnowSmall15.FRM
 Flags=540
 Material=4
 
 [Proto]
-ProtoId=30063
+ProtoId=27063
 Type=11
-PicMap=art/New Art/Scenery/GIGAELKA1.png
-PicInv=art/New Art/Scenery/GIGAELKA1.png
+PicMap=art\New Art\Scenery\GIGAELKA1.png
+PicInv=art\New Art\Scenery\GIGAELKA1.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -530,10 +530,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30064
+ProtoId=27064
 Type=11
-PicMap=art/New Art/Scenery/GIGAELKA2.png
-PicInv=art/New Art/Scenery/GIGAELKA2.png
+PicMap=art\New Art\Scenery\GIGAELKA2.png
+PicInv=art\New Art\Scenery\GIGAELKA2.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -541,266 +541,266 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30065
+ProtoId=27065
 Type=11
-PicMap=art/New Art/Scenery/VWIN01.png
-PicInv=art/New Art/Scenery/VWIN01.png
+PicMap=art\New Art\Scenery\VWIN01.png
+PicInv=art\New Art\Scenery\VWIN01.png
 Flags=33554968
 
 [Proto]
-ProtoId=30066
+ProtoId=27066
 Type=11
-PicMap=art/New Art/Scenery/VWIN02.png
-PicInv=art/New Art/Scenery/VWIN02.png
+PicMap=art\New Art\Scenery\VWIN02.png
+PicInv=art\New Art\Scenery\VWIN02.png
 Flags=33554968
 
 [Proto]
-ProtoId=30067
+ProtoId=27067
 Type=11
-PicMap=art/New Art/Scenery/VWIN03.png
-PicInv=art/New Art/Scenery/VWIN03.png
+PicMap=art\New Art\Scenery\VWIN03.png
+PicInv=art\New Art\Scenery\VWIN03.png
 Flags=33554968
 
 [Proto]
-ProtoId=30068
+ProtoId=27068
 Type=11
-PicMap=art/New Art/Scenery/VWIN04.png
-PicInv=art/New Art/Scenery/VWIN04.png
+PicMap=art\New Art\Scenery\VWIN04.png
+PicInv=art\New Art\Scenery\VWIN04.png
 Flags=33554968
 
 [Proto]
-ProtoId=30069
+ProtoId=27069
 Type=11
-PicMap=art/New Art/Scenery/VWIN05.png
-PicInv=art/New Art/Scenery/VWIN05.png
+PicMap=art\New Art\Scenery\VWIN05.png
+PicInv=art\New Art\Scenery\VWIN05.png
 Flags=33554968
 
 [Proto]
-ProtoId=30070
+ProtoId=27070
 Type=11
-PicMap=art/New Art/Scenery/VWIN06.png
-PicInv=art/New Art/Scenery/VWIN06.png
+PicMap=art\New Art\Scenery\VWIN06.png
+PicInv=art\New Art\Scenery\VWIN06.png
 Flags=33554968
 
 [Proto]
-ProtoId=30071
+ProtoId=27071
 Type=11
-PicMap=art/New Art/Scenery/V_WIN07.png
-PicInv=art/New Art/Scenery/V_WIN07.png
+PicMap=art\New Art\Scenery\V_WIN07.png
+PicInv=art\New Art\Scenery\V_WIN07.png
 Flags=33554968
 
 [Proto]
-ProtoId=30072
+ProtoId=27072
 Type=11
-PicMap=art/New Art/Scenery/EVM_Offline.frm
-PicInv=art/New Art/Scenery/EVM_Offline.frm
+PicMap=art\New Art\Scenery\EVM_Offline.frm
+PicInv=art\New Art\Scenery\EVM_Offline.frm
 Flags=301990424
 Material=1
 
 [Proto]
-ProtoId=30073
+ProtoId=27073
 Type=11
-PicMap=art/New Art/Scenery/EVM_Online.frm
-PicInv=art/New Art/Scenery/EVM_Online.frm
+PicMap=art\New Art\Scenery\EVM_Online.frm
+PicInv=art\New Art\Scenery\EVM_Online.frm
 Flags=33563160
 
 [Proto]
-ProtoId=30074
+ProtoId=27074
 Type=8
-PicMap=art/New Art/Scenery/Shava.png
-PicInv=art/New Art/Scenery/Shava.png
+PicMap=art\New Art\Scenery\Shava.png
+PicInv=art\New Art\Scenery\Shava.png
 Flags=33554968
 Material=3
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30075
+ProtoId=27075
 Type=11
-PicMap=art/New Art/Scenery/KolovratSign.frm
-PicInv=art/New Art/Scenery/KolovratSign.frm
+PicMap=art\New Art\Scenery\KolovratSign.frm
+PicInv=art\New Art\Scenery\KolovratSign.frm
 Flags=33595928
 Material=3
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30076
+ProtoId=27076
 Type=11
-PicMap=art/New Art/Scenery/Strip1.frm
-PicInv=art/New Art/Scenery/Strip1.frm
+PicMap=art\New Art\Scenery\Strip1.frm
+PicInv=art\New Art\Scenery\Strip1.frm
 Flags=33563160
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30077
+ProtoId=27077
 Type=11
-PicMap=art/New Art/Scenery/sf_monum.png
-PicInv=art/New Art/Scenery/sf_monum.png
+PicMap=art\New Art\Scenery\sf_monum.png
+PicInv=art\New Art\Scenery\sf_monum.png
 Flags=33563136
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30078
+ProtoId=27078
 Type=11
-PicMap=art/New Art/Scenery/br.frm
-PicInv=art/New Art/Scenery/br.frm
+PicMap=art\New Art\Scenery\br.frm
+PicInv=art\New Art\Scenery\br.frm
 Flags=33563136
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30079
+ProtoId=27079
 Type=11
-PicMap=art/New Art/Scenery/Stairs1b.png
-PicInv=art/New Art/Scenery/Stairs1b.png
+PicMap=art\New Art\Scenery\Stairs1b.png
+PicInv=art\New Art\Scenery\Stairs1b.png
 
 [Proto]
-ProtoId=30080
+ProtoId=27080
 Type=10
-PicMap=art/New Art/Scenery/Stairs1a.png
-PicInv=art/New Art/Scenery/Stairs1a.png
+PicMap=art\New Art\Scenery\Stairs1a.png
+PicInv=art\New Art\Scenery\Stairs1a.png
 Flags=268435456
 Grid_Type=2
 
 [Proto]
-ProtoId=30081
+ProtoId=27081
 Type=10
-PicMap=art/New Art/Scenery/Stairs2a.png
-PicInv=art/New Art/Scenery/Stairs2a.png
+PicMap=art\New Art\Scenery\Stairs2a.png
+PicInv=art\New Art\Scenery\Stairs2a.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30082
+ProtoId=27082
 Type=11
-PicMap=art/New Art/Scenery/Stairs2b.png
-PicInv=art/New Art/Scenery/Stairs2b.png
+PicMap=art\New Art\Scenery\Stairs2b.png
+PicInv=art\New Art\Scenery\Stairs2b.png
 
 [Proto]
-ProtoId=30083
+ProtoId=27083
 Type=10
-PicMap=art/New Art/Scenery/Stairs3.png
-PicInv=art/New Art/Scenery/Stairs3.png
+PicMap=art\New Art\Scenery\Stairs3.png
+PicInv=art\New Art\Scenery\Stairs3.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30084
+ProtoId=27084
 Type=10
-PicMap=art/New Art/Scenery/Stairs3.png
-PicInv=art/New Art/Scenery/Stairs3.png
+PicMap=art\New Art\Scenery\Stairs3.png
+PicInv=art\New Art\Scenery\Stairs3.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30085
+ProtoId=27085
 Type=11
-PicMap=art/New Art/Scenery/GTANK003.FRM
-PicInv=art/New Art/Scenery/GTANK003.FRM
+PicMap=art\New Art\Scenery\GTANK003.FRM
+PicInv=art\New Art\Scenery\GTANK003.FRM
 Flags=8192
 
 [Proto]
-ProtoId=30086
+ProtoId=27086
 Type=11
-PicMap=art/New Art/Scenery/GTANK004.FRM
-PicInv=art/New Art/Scenery/GTANK004.FRM
+PicMap=art\New Art\Scenery\GTANK004.FRM
+PicInv=art\New Art\Scenery\GTANK004.FRM
 Flags=8192
 
 [Proto]
-ProtoId=30087
+ProtoId=27087
 Type=11
-PicMap=art/New Art/Scenery/REZERV211.frm
-PicInv=art/New Art/Scenery/REZERV211.frm
+PicMap=art\New Art\Scenery\REZERV211.frm
+PicInv=art\New Art\Scenery\REZERV211.frm
 Flags=8192
 
 [Proto]
-ProtoId=30088
+ProtoId=27088
 Type=11
-PicMap=art/New Art/Scenery/REZERV210.frm
-PicInv=art/New Art/Scenery/REZERV210.frm
+PicMap=art\New Art\Scenery\REZERV210.frm
+PicInv=art\New Art\Scenery\REZERV210.frm
 Flags=8192
 
 [Proto]
-ProtoId=30089
+ProtoId=27089
 Type=8
-PicMap=art/New Art/Scenery/yashik1.frm
-PicInv=art/New Art/Scenery/yashik1.frm
+PicMap=art\New Art\Scenery\yashik1.frm
+PicInv=art\New Art\Scenery\yashik1.frm
 Flags=268439552
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30090
+ProtoId=27090
 Type=11
-PicMap=art/New Art/Scenery/komp.FRM
-PicInv=art/New Art/Scenery/komp.FRM
+PicMap=art\New Art\Scenery\komp.FRM
+PicInv=art\New Art\Scenery\komp.FRM
 Corner=4
 Flags=8
 Material=1
 
 [Proto]
-ProtoId=30091
+ProtoId=27091
 Type=11
-PicMap=art/New Art/Scenery/komp1.FRM
-PicInv=art/New Art/Scenery/komp1.FRM
+PicMap=art\New Art\Scenery\komp1.FRM
+PicInv=art\New Art\Scenery\komp1.FRM
 Corner=4
 Flags=8200
 Material=1
 
 [Proto]
-ProtoId=30092
+ProtoId=27092
 Type=11
-PicMap=art/New Art/Scenery/RADTOWER.frm
-PicInv=art/New Art/Scenery/RADTOWER.frm
+PicMap=art\New Art\Scenery\RADTOWER.frm
+PicInv=art\New Art\Scenery\RADTOWER.frm
 Material=1
 
 [Proto]
-ProtoId=30093
+ProtoId=27093
 Type=11
-PicMap=art/New Art/Scenery/Teleport.frm
-PicInv=art/New Art/Scenery/Teleport.frm
+PicMap=art\New Art\Scenery\Teleport.frm
+PicInv=art\New Art\Scenery\Teleport.frm
 Corner=1
 Flags=8216
 Material=2
 
 [Proto]
-ProtoId=30094
+ProtoId=27094
 Type=11
-PicMap=art/New Art/Scenery/stol.FRM
-PicInv=art/New Art/Scenery/stol.FRM
+PicMap=art\New Art\Scenery\stol.FRM
+PicInv=art\New Art\Scenery\stol.FRM
 Corner=5
 Flags=8
 Material=1
 
 [Proto]
-ProtoId=30095
+ProtoId=27095
 Type=11
-PicMap=art/New Art/Scenery/PresTableKPSS.FRM
-PicInv=art/New Art/Scenery/PresTableKPSS.FRM
+PicMap=art\New Art\Scenery\PresTableKPSS.FRM
+PicInv=art\New Art\Scenery\PresTableKPSS.FRM
 Corner=5
 Flags=8
 Material=3
 
 [Proto]
-ProtoId=30096
+ProtoId=27096
 Type=11
-PicMap=art/New Art/Scenery/TableKPSS1.FRM
-PicInv=art/New Art/Scenery/TableKPSS1.FRM
+PicMap=art\New Art\Scenery\TableKPSS1.FRM
+PicInv=art\New Art\Scenery\TableKPSS1.FRM
 Corner=5
 Flags=8
 Material=3
 
 [Proto]
-ProtoId=30097
+ProtoId=27097
 Type=11
-PicMap=art/New Art/Scenery/TableKPSS2.FRM
-PicInv=art/New Art/Scenery/TableKPSS2.FRM
+PicMap=art\New Art\Scenery\TableKPSS2.FRM
+PicInv=art\New Art\Scenery\TableKPSS2.FRM
 Corner=5
 Flags=8
 Material=3
 
 [Proto]
-ProtoId=30098
+ProtoId=27098
 Type=11
-PicMap=art/New Art/Scenery/Zhiga.frm
-PicInv=art/New Art/Scenery/Zhiga.frm
+PicMap=art\New Art\Scenery\Zhiga.frm
+PicInv=art\New Art\Scenery\Zhiga.frm
 Corner=4
 Flags=8192
 AnimWaitBase=10
@@ -808,10 +808,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30099
+ProtoId=27099
 Type=11
-PicMap=art/New Art/Scenery/WARSIGN1.frm
-PicInv=art/New Art/Scenery/WARSIGN1.frm
+PicMap=art\New Art\Scenery\WARSIGN1.frm
+PicInv=art\New Art\Scenery\WARSIGN1.frm
 Corner=4
 Flags=8192
 AnimWaitBase=10
@@ -819,40 +819,40 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30100
+ProtoId=27100
 Type=11
-PicMap=art/New Art/Scenery/poster1.frm
-PicInv=art/New Art/Scenery/poster1.frm
+PicMap=art\New Art\Scenery\poster1.frm
+PicInv=art\New Art\Scenery\poster1.frm
 Flags=8192
 AnimWaitBase=10
 AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30101
+ProtoId=27101
 Type=11
-PicMap=art/New Art/Scenery/poster2.frm
-PicInv=art/New Art/Scenery/poster2.frm
+PicMap=art\New Art\Scenery\poster2.frm
+PicInv=art\New Art\Scenery\poster2.frm
 Flags=8192
 AnimWaitBase=10
 AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30102
+ProtoId=27102
 Type=11
-PicMap=art/New Art/Scenery/poster3.frm
-PicInv=art/New Art/Scenery/poster3.frm
+PicMap=art\New Art\Scenery\poster3.frm
+PicInv=art\New Art\Scenery\poster3.frm
 Flags=8192
 AnimWaitBase=10
 AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30103
+ProtoId=27103
 Type=11
-PicMap=art/New Art/Scenery/poster4-1.frm
-PicInv=art/New Art/Scenery/poster4-1.frm
+PicMap=art\New Art\Scenery\poster4-1.frm
+PicInv=art\New Art\Scenery\poster4-1.frm
 Corner=5
 Flags=8192
 Material=5
@@ -861,10 +861,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30104
+ProtoId=27104
 Type=11
-PicMap=art/New Art/Scenery/poster5.frm
-PicInv=art/New Art/Scenery/poster5.frm
+PicMap=art\New Art\Scenery\poster5.frm
+PicInv=art\New Art\Scenery\poster5.frm
 Corner=5
 Flags=8192
 Material=5
@@ -873,10 +873,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30105
+ProtoId=27105
 Type=11
-PicMap=art/New Art/Scenery/poster6.frm
-PicInv=art/New Art/Scenery/poster6.frm
+PicMap=art\New Art\Scenery\poster6.frm
+PicInv=art\New Art\Scenery\poster6.frm
 Corner=5
 Flags=8192
 Material=5
@@ -885,10 +885,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30106
+ProtoId=27106
 Type=11
-PicMap=art/New Art/Scenery/poster6-1.frm
-PicInv=art/New Art/Scenery/poster6-1.frm
+PicMap=art\New Art\Scenery\poster6-1.frm
+PicInv=art\New Art\Scenery\poster6-1.frm
 Corner=5
 Flags=8192
 Material=5
@@ -897,10 +897,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30107
+ProtoId=27107
 Type=11
-PicMap=art/New Art/Scenery/poster4-2.frm
-PicInv=art/New Art/Scenery/poster4-2.frm
+PicMap=art\New Art\Scenery\poster4-2.frm
+PicInv=art\New Art\Scenery\poster4-2.frm
 Corner=5
 Flags=8192
 Material=5
@@ -909,10 +909,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30108
+ProtoId=27108
 Type=11
-PicMap=art/New Art/Scenery/Rozis.frm
-PicInv=art/New Art/Scenery/Rozis.frm
+PicMap=art\New Art\Scenery\Rozis.frm
+PicInv=art\New Art\Scenery\Rozis.frm
 Corner=4
 Flags=8192
 AnimWaitBase=10
@@ -920,10 +920,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30109
+ProtoId=27109
 Type=11
-PicMap=art/New Art/Scenery/Crow.frm
-PicInv=art/New Art/Scenery/Crow.frm
+PicMap=art\New Art\Scenery\Crow.frm
+PicInv=art\New Art\Scenery\Crow.frm
 Corner=4
 Flags=8732
 Material=7
@@ -932,82 +932,82 @@ AnimWaitRndMin=400
 AnimWaitRndMax=1000
 
 [Proto]
-ProtoId=30110
+ProtoId=27110
 Type=11
-PicMap=art/New Art/Scenery/BOXES1_snow.png
-PicInv=art/New Art/Scenery/BOXES1_snow.png
+PicMap=art\New Art\Scenery\BOXES1_snow.png
+PicInv=art\New Art\Scenery\BOXES1_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30111
+ProtoId=27111
 Type=11
-PicMap=art/New Art/Scenery/NJUNK5_snow.png
-PicInv=art/New Art/Scenery/NJUNK5_snow.png
+PicMap=art\New Art\Scenery\NJUNK5_snow.png
+PicInv=art\New Art\Scenery\NJUNK5_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30112
+ProtoId=27112
 Type=11
-PicMap=art/New Art/Scenery/JUNK1_snow.png
-PicInv=art/New Art/Scenery/JUNK1_snow.png
+PicMap=art\New Art\Scenery\JUNK1_snow.png
+PicInv=art\New Art\Scenery\JUNK1_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30113
+ProtoId=27113
 Type=11
-PicMap=art/New Art/Scenery/JUNK2_snow.png
-PicInv=art/New Art/Scenery/JUNK2_snow.png
+PicMap=art\New Art\Scenery\JUNK2_snow.png
+PicInv=art\New Art\Scenery\JUNK2_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30114
+ProtoId=27114
 Type=11
-PicMap=art/New Art/Scenery/JUNK3_snow.png
-PicInv=art/New Art/Scenery/JUNK3_snow.png
+PicMap=art\New Art\Scenery\JUNK3_snow.png
+PicInv=art\New Art\Scenery\JUNK3_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30115
+ProtoId=27115
 Type=11
-PicMap=art/New Art/Scenery/JUNK4_snow.png
-PicInv=art/New Art/Scenery/JUNK4_snow.png
+PicMap=art\New Art\Scenery\JUNK4_snow.png
+PicInv=art\New Art\Scenery\JUNK4_snow.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30116
+ProtoId=27116
 Type=11
-PicMap=art/New Art/Scenery/Barrel_snow1.png
-PicInv=art/New Art/Scenery/Barrel_snow1.png
+PicMap=art\New Art\Scenery\Barrel_snow1.png
+PicInv=art\New Art\Scenery\Barrel_snow1.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30117
+ProtoId=27117
 Type=11
-PicMap=art/New Art/Scenery/Barrel_snow2.png
-PicInv=art/New Art/Scenery/Barrel_snow2.png
+PicMap=art\New Art\Scenery\Barrel_snow2.png
+PicInv=art\New Art\Scenery\Barrel_snow2.png
 Corner=5
 Flags=4104
 Material=1
 
 [Proto]
-ProtoId=30118
+ProtoId=27118
 Type=11
-PicMap=art/New Art/Scenery/Red_Star_Flag.png
-PicInv=art/New Art/Scenery/Red_Star_Flag.png
+PicMap=art\New Art\Scenery\Red_Star_Flag.png
+PicInv=art\New Art\Scenery\Red_Star_Flag.png
 Corner=4
 Flags=8
 AnimWaitBase=10
@@ -1015,67 +1015,67 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30119
+ProtoId=27119
 Type=11
-PicMap=art/New Art/Scenery/SHACK_Snow.png
-PicInv=art/New Art/Scenery/SHACK_Snow.png
+PicMap=art\New Art\Scenery\SHACK_Snow.png
+PicInv=art\New Art\Scenery\SHACK_Snow.png
 Flags=4096
 Material=5
 
 [Proto]
-ProtoId=30120
+ProtoId=27120
 Type=11
-PicMap=art/New Art/Scenery/Broken_Car1.png
-PicInv=art/New Art/Scenery/Broken_Car1.png
+PicMap=art\New Art\Scenery\Broken_Car1.png
+PicInv=art\New Art\Scenery\Broken_Car1.png
 Flags=33554952
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30121
+ProtoId=27121
 Type=11
-PicMap=art/New Art/Scenery/stol_s_apa.png
-PicInv=art/New Art/Scenery/stol_s_apa.png
+PicMap=art\New Art\Scenery\stol_s_apa.png
+PicInv=art\New Art\Scenery\stol_s_apa.png
 Corner=4
 Flags=8
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30122
+ProtoId=27122
 Type=11
-PicMap=art/New Art/Scenery/T1ANKER14.FRM
-PicInv=art/New Art/Scenery/T1ANKER14.FRM
+PicMap=art\New Art\Scenery\T1ANKER14.FRM
+PicInv=art\New Art\Scenery\T1ANKER14.FRM
 Corner=5
 Flags=268439552
 Material=1
 
 [Proto]
-ProtoId=30123
+ProtoId=27123
 Type=11
-PicMap=art/New Art/Scenery/T1ANKER15.FRM
-PicInv=art/New Art/Scenery/T1ANKER15.FRM
+PicMap=art\New Art\Scenery\T1ANKER15.FRM
+PicInv=art\New Art\Scenery\T1ANKER15.FRM
 Corner=5
 Flags=268439552
 Material=1
 
 [Proto]
-ProtoId=30124
+ProtoId=27124
 Type=11
-PicMap=art/New Art/Scenery/Automat.FRM
-PicInv=art/New Art/Scenery/Automat.FRM
+PicMap=art\New Art\Scenery\Automat.FRM
+PicInv=art\New Art\Scenery\Automat.FRM
 Corner=5
 Flags=268447744
 Material=1
 
 [Proto]
-ProtoId=30125
+ProtoId=27125
 Type=12
 PicMap=art/New Art/Walls/Panel1.frm
 PicInv=art/New Art/Walls/Panel1.frm
 Material=5
 
 [Proto]
-ProtoId=30126
+ProtoId=27126
 Type=12
 PicMap=art/New Art/Walls/Panel2.frm
 PicInv=art/New Art/Walls/Panel2.frm
@@ -1083,7 +1083,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30127
+ProtoId=27127
 Type=12
 PicMap=art/New Art/Walls/Panel3.frm
 PicInv=art/New Art/Walls/Panel3.frm
@@ -1091,14 +1091,14 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30128
+ProtoId=27128
 Type=12
 PicMap=art/New Art/Walls/Panel4.frm
 PicInv=art/New Art/Walls/Panel4.frm
 Material=5
 
 [Proto]
-ProtoId=30129
+ProtoId=27129
 Type=12
 PicMap=art/New Art/Walls/Panel5.frm
 PicInv=art/New Art/Walls/Panel5.frm
@@ -1106,7 +1106,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30130
+ProtoId=27130
 Type=12
 PicMap=art/New Art/Walls/Panel6.frm
 PicInv=art/New Art/Walls/Panel6.frm
@@ -1114,7 +1114,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30131
+ProtoId=27131
 Type=12
 PicMap=art/New Art/Walls/Panel7.frm
 PicInv=art/New Art/Walls/Panel7.frm
@@ -1122,7 +1122,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30132
+ProtoId=27132
 Type=12
 PicMap=art/New Art/Walls/Panel8.frm
 PicInv=art/New Art/Walls/Panel8.frm
@@ -1130,7 +1130,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30133
+ProtoId=27133
 Type=12
 PicMap=art/New Art/Walls/Panel9.frm
 PicInv=art/New Art/Walls/Panel9.frm
@@ -1138,119 +1138,119 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30134
+ProtoId=27134
 Type=12
 PicMap=art/New Art/Walls/Panel10.frm
 PicInv=art/New Art/Walls/Panel10.frm
 Material=5
 
 [Proto]
-ProtoId=30135
+ProtoId=27135
 Type=12
 PicMap=art/New Art/Walls/Panel11.frm
 PicInv=art/New Art/Walls/Panel11.frm
 Material=5
 
 [Proto]
-ProtoId=30136
+ProtoId=27136
 Type=12
 PicMap=art/New Art/Walls/Panel12.frm
 PicInv=art/New Art/Walls/Panel12.frm
 Material=5
 
 [Proto]
-ProtoId=30137
+ProtoId=27137
 Type=12
 PicMap=art/New Art/Walls/Panel13.frm
 PicInv=art/New Art/Walls/Panel13.frm
 Material=5
 
 [Proto]
-ProtoId=30138
+ProtoId=27138
 Type=12
 PicMap=art/New Art/Walls/Panel14.frm
 PicInv=art/New Art/Walls/Panel14.frm
 Material=5
 
 [Proto]
-ProtoId=30139
+ProtoId=27139
 Type=12
 PicMap=art/New Art/Walls/Panel15.frm
 PicInv=art/New Art/Walls/Panel15.frm
 Material=5
 
 [Proto]
-ProtoId=30140
+ProtoId=27140
 Type=12
 PicMap=art/New Art/Walls/Panel16.frm
 PicInv=art/New Art/Walls/Panel16.frm
 Material=5
 
 [Proto]
-ProtoId=30141
+ProtoId=27141
 Type=12
 PicMap=art/New Art/Walls/Panel17.frm
 PicInv=art/New Art/Walls/Panel17.frm
 Material=5
 
 [Proto]
-ProtoId=30142
+ProtoId=27142
 Type=12
 PicMap=art/New Art/Walls/Panel18.frm
 PicInv=art/New Art/Walls/Panel18.frm
 Material=5
 
 [Proto]
-ProtoId=30143
+ProtoId=27143
 Type=12
 PicMap=art/New Art/Walls/Panel19.frm
 PicInv=art/New Art/Walls/Panel19.frm
 Material=5
 
 [Proto]
-ProtoId=30144
+ProtoId=27144
 Type=12
 PicMap=art/New Art/Walls/Panel20.frm
 PicInv=art/New Art/Walls/Panel20.frm
 Material=5
 
 [Proto]
-ProtoId=30145
+ProtoId=27145
 Type=12
 PicMap=art/New Art/Walls/Panel21.frm
 PicInv=art/New Art/Walls/Pane21.frm
 Material=5
 
 [Proto]
-ProtoId=30146
+ProtoId=27146
 Type=12
 PicMap=art/New Art/Walls/Panel22.frm
 PicInv=art/New Art/Walls/Panel22.frm
 Material=5
 
 [Proto]
-ProtoId=30147
+ProtoId=27147
 Type=12
 PicMap=art/New Art/Walls/Panel23.frm
 PicInv=art/New Art/Walls/Panel23.frm
 Material=5
 
 [Proto]
-ProtoId=30148
+ProtoId=27148
 Type=12
 PicMap=art/New Art/Walls/Panel24.frm
 PicInv=art/New Art/Walls/Panel24.frm
 Material=5
 
 [Proto]
-ProtoId=30149
+ProtoId=27149
 Type=12
 PicMap=art/New Art/Walls/Panel25.frm
 PicInv=art/New Art/Walls/Panel25.frm
 Material=5
 
 [Proto]
-ProtoId=30150
+ProtoId=27150
 Type=12
 PicMap=art/New Art/Walls/Panel26.frm
 PicInv=art/New Art/Walls/Panel26.frm
@@ -1258,7 +1258,7 @@ Flags=4
 Material=5
 
 [Proto]
-ProtoId=30151
+ProtoId=27151
 Type=12
 PicMap=art/New Art/Walls/Panel27.frm
 PicInv=art/New Art/Walls/Panel27.frm
@@ -1266,71 +1266,71 @@ Flags=516
 Material=5
 
 [Proto]
-ProtoId=30152
+ProtoId=27152
 Type=11
-PicMap=art/New Art/Scenery/BTR.png
-PicInv=art/New Art/Scenery/BTR.png
+PicMap=art\New Art\Scenery\BTR.png
+PicInv=art\New Art\Scenery\BTR.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30153
+ProtoId=27153
 Type=11
-PicMap=art/New Art/Scenery/skamjka1.frm
-PicInv=art/New Art/Scenery/skamjka1.frm
+PicMap=art\New Art\Scenery\skamjka1.frm
+PicInv=art\New Art\Scenery\skamjka1.frm
 Corner=5
 Flags=4632
 Material=3
 
 [Proto]
-ProtoId=30154
+ProtoId=27154
 Type=11
-PicMap=art/New Art/Scenery/skamjka2.frm
-PicInv=art/New Art/Scenery/skamjka2.frm
+PicMap=art\New Art\Scenery\skamjka2.frm
+PicInv=art\New Art\Scenery\skamjka2.frm
 Corner=5
 Flags=4632
 Material=3
 
 [Proto]
-ProtoId=30155
+ProtoId=27155
 Type=11
-PicMap=art/New Art/Scenery/skamjka3.frm
-PicInv=art/New Art/Scenery/skamjka3.frm
+PicMap=art\New Art\Scenery\skamjka3.frm
+PicInv=art\New Art\Scenery\skamjka3.frm
 Corner=4
 Flags=4632
 Material=3
 
 [Proto]
-ProtoId=30156
+ProtoId=27156
 Type=11
-PicMap=art/New Art/Scenery/skamjka4.frm
-PicInv=art/New Art/Scenery/skamjka4.frm
+PicMap=art\New Art\Scenery\skamjka4.frm
+PicInv=art\New Art\Scenery\skamjka4.frm
 Corner=4
 Flags=4632
 Material=3
 
 [Proto]
-ProtoId=30157
+ProtoId=27157
 Type=11
-PicMap=art/New Art/Scenery/skamjka5.frm
-PicInv=art/New Art/Scenery/skamjka5.frm
+PicMap=art\New Art\Scenery\skamjka5.frm
+PicInv=art\New Art\Scenery\skamjka5.frm
 Corner=4
 Flags=4632
 Material=3
 
 [Proto]
-ProtoId=30158
+ProtoId=27158
 Type=11
-PicMap=art/New Art/Scenery/vrtltrz6.frm
-PicInv=art/New Art/Scenery/vrtltrz6.frm
+PicMap=art\New Art\Scenery\vrtltrz6.frm
+PicInv=art\New Art\Scenery\vrtltrz6.frm
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30159
+ProtoId=27159
 Type=11
-PicMap=art/New Art/Scenery/Batareya.png
-PicInv=art/New Art/Scenery/Batareya.png
+PicMap=art\New Art\Scenery\Batareya.png
+PicInv=art\New Art\Scenery\Batareya.png
 Corner=4
 Flags=8
 Material=1
@@ -1339,10 +1339,10 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30160
+ProtoId=27160
 Type=11
-PicMap=art/New Art/Scenery/Batareya1.png
-PicInv=art/New Art/Scenery/Batareya1.png
+PicMap=art\New Art\Scenery\Batareya1.png
+PicInv=art\New Art\Scenery\Batareya1.png
 Corner=4
 Flags=8
 Material=1
@@ -1351,7 +1351,7 @@ AnimWaitRndMin=2
 AnimWaitRndMax=10
 
 [Proto]
-ProtoId=30161
+ProtoId=27161
 Type=12
 PicMap=art/New Art/Walls/Panel28.frm
 PicInv=art/New Art/Walls/Panel28.frm
@@ -1359,7 +1359,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30162
+ProtoId=27162
 Type=12
 PicMap=art/New Art/Walls/Panel29.frm
 PicInv=art/New Art/Walls/Panel29.frm
@@ -1367,7 +1367,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30163
+ProtoId=27163
 Type=12
 PicMap=art/New Art/Walls/Panel30.frm
 PicInv=art/New Art/Walls/Panel30.frm
@@ -1375,14 +1375,14 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30164
+ProtoId=27164
 Type=12
 PicMap=art/New Art/Walls/Panel31.frm
 PicInv=art/New Art/Walls/Panel31.frm
 Material=5
 
 [Proto]
-ProtoId=30165
+ProtoId=27165
 Type=12
 PicMap=art/New Art/Walls/Panel32.frm
 PicInv=art/New Art/Walls/Panel32.frm
@@ -1390,7 +1390,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30166
+ProtoId=27166
 Type=12
 PicMap=art/New Art/Walls/Panel33.frm
 PicInv=art/New Art/Walls/Panel33.frm
@@ -1398,7 +1398,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30167
+ProtoId=27167
 Type=12
 PicMap=art/New Art/Walls/Panel34.frm
 PicInv=art/New Art/Walls/Panel34.frm
@@ -1406,7 +1406,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30168
+ProtoId=27168
 Type=12
 PicMap=art/New Art/Walls/Panel35.frm
 PicInv=art/New Art/Walls/Panel35.frm
@@ -1414,7 +1414,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30169
+ProtoId=27169
 Type=12
 PicMap=art/New Art/Walls/Panel36.frm
 PicInv=art/New Art/Walls/Panel36.frm
@@ -1422,7 +1422,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30170
+ProtoId=27170
 Type=12
 PicMap=art/New Art/Walls/Panel37.frm
 PicInv=art/New Art/Walls/Panel37.frm
@@ -1430,7 +1430,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30171
+ProtoId=27171
 Type=12
 PicMap=art/New Art/Walls/Panel38.frm
 PicInv=art/New Art/Walls/Panel38.frm
@@ -1438,7 +1438,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30172
+ProtoId=27172
 Type=12
 PicMap=art/New Art/Walls/Panel39.frm
 PicInv=art/New Art/Walls/Panel39.frm
@@ -1446,7 +1446,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30173
+ProtoId=27173
 Type=12
 PicMap=art/New Art/Walls/Panel40.frm
 PicInv=art/New Art/Walls/Panel40.frm
@@ -1454,7 +1454,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30174
+ProtoId=27174
 Type=12
 PicMap=art/New Art/Walls/Panel41.frm
 PicInv=art/New Art/Walls/Panel41.frm
@@ -1462,7 +1462,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30175
+ProtoId=27175
 Type=12
 PicMap=art/New Art/Walls/Panel42.frm
 PicInv=art/New Art/Walls/Panel42.frm
@@ -1470,7 +1470,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30176
+ProtoId=27176
 Type=12
 PicMap=art/New Art/Walls/Panel43.frm
 PicInv=art/New Art/Walls/Panel43.frm
@@ -1478,7 +1478,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30177
+ProtoId=27177
 Type=12
 PicMap=art/New Art/Walls/Panel44.frm
 PicInv=art/New Art/Walls/Panel44.frm
@@ -1486,7 +1486,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30178
+ProtoId=27178
 Type=12
 PicMap=art/New Art/Walls/Panel45.frm
 PicInv=art/New Art/Walls/Panel45.frm
@@ -1494,7 +1494,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30179
+ProtoId=27179
 Type=12
 PicMap=art/New Art/Walls/Panel46.frm
 PicInv=art/New Art/Walls/Panel46.frm
@@ -1502,7 +1502,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30180
+ProtoId=27180
 Type=12
 PicMap=art/New Art/Walls/Panel47.frm
 PicInv=art/New Art/Walls/Panel47.frm
@@ -1510,7 +1510,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30181
+ProtoId=27181
 Type=12
 PicMap=art/New Art/Walls/Panel48.frm
 PicInv=art/New Art/Walls/Panel48.frm
@@ -1518,7 +1518,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30182
+ProtoId=27182
 Type=12
 PicMap=art/New Art/Walls/Panel49.frm
 PicInv=art/New Art/Walls/Panel49.frm
@@ -1526,7 +1526,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30183
+ProtoId=27183
 Type=12
 PicMap=art/New Art/Walls/Panel50.frm
 PicInv=art/New Art/Walls/Panel50.frm
@@ -1534,7 +1534,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30184
+ProtoId=27184
 Type=12
 PicMap=art/New Art/Walls/Panel51.frm
 PicInv=art/New Art/Walls/Panel51.frm
@@ -1542,7 +1542,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30185
+ProtoId=27185
 Type=12
 PicMap=art/New Art/Walls/Panel52.frm
 PicInv=art/New Art/Walls/Panel52.frm
@@ -1550,7 +1550,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30186
+ProtoId=27186
 Type=12
 PicMap=art/New Art/Walls/Panel53.frm
 PicInv=art/New Art/Walls/Panel53.frm
@@ -1558,7 +1558,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30187
+ProtoId=27187
 Type=12
 PicMap=art/New Art/Walls/Panel54.frm
 PicInv=art/New Art/Walls/Panel54.frm
@@ -1566,7 +1566,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30188
+ProtoId=27188
 Type=12
 PicMap=art/New Art/Walls/Panel55.frm
 PicInv=art/New Art/Walls/Panel55.frm
@@ -1574,7 +1574,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30189
+ProtoId=27189
 Type=12
 PicMap=art/New Art/Walls/Panel56.frm
 PicInv=art/New Art/Walls/Panel56.frm
@@ -1582,7 +1582,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30190
+ProtoId=27190
 Type=12
 PicMap=art/New Art/Walls/Panel57.frm
 PicInv=art/New Art/Walls/Panel57.frm
@@ -1590,7 +1590,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30191
+ProtoId=27191
 Type=12
 PicMap=art/New Art/Walls/Panel58.frm
 PicInv=art/New Art/Walls/Panel58.frm
@@ -1598,7 +1598,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30192
+ProtoId=27192
 Type=12
 PicMap=art/New Art/Walls/Panel59.frm
 PicInv=art/New Art/Walls/Panel59.frm
@@ -1606,416 +1606,416 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30193
+ProtoId=27193
 Type=11
-PicMap=art/New Art/Scenery/Garage1.frm
-PicInv=art/New Art/Scenery/Garage1.frm
+PicMap=art\New Art\Scenery\Garage1.frm
+PicInv=art\New Art\Scenery\Garage1.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30194
+ProtoId=27194
 Type=11
-PicMap=art/New Art/Scenery/Garage2.frm
-PicInv=art/New Art/Scenery/Garage2.frm
+PicMap=art\New Art\Scenery\Garage2.frm
+PicInv=art\New Art\Scenery\Garage2.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30195
+ProtoId=27195
 Type=11
-PicMap=art/New Art/Scenery/Garage3.frm
-PicInv=art/New Art/Scenery/Garage3.frm
+PicMap=art\New Art\Scenery\Garage3.frm
+PicInv=art\New Art\Scenery\Garage3.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30196
+ProtoId=27196
 Type=11
-PicMap=art/New Art/Scenery/Garage4.frm
-PicInv=art/New Art/Scenery/Garage4.frm
+PicMap=art\New Art\Scenery\Garage4.frm
+PicInv=art\New Art\Scenery\Garage4.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30197
+ProtoId=27197
 Type=11
-PicMap=art/New Art/Scenery/Garage5.frm
-PicInv=art/New Art/Scenery/Garage5.frm
+PicMap=art\New Art\Scenery\Garage5.frm
+PicInv=art\New Art\Scenery\Garage5.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30198
+ProtoId=27198
 Type=12
 PicMap=art/New Art/Walls/Panel59.png
 PicInv=art/New Art/Walls/Panel59.png
 Material=5
 
 [Proto]
-ProtoId=30199
+ProtoId=27199
 Type=12
 PicMap=art/New Art/Walls/Panel60.png
 PicInv=art/New Art/Walls/Panel60.png
 Material=5
 
 [Proto]
-ProtoId=30200
+ProtoId=27200
 Type=12
 PicMap=art/New Art/Walls/Panel61.png
 PicInv=art/New Art/Walls/Panel61.png
 Material=5
 
 [Proto]
-ProtoId=30201
+ProtoId=27201
 Type=12
 PicMap=art/New Art/Walls/Panel62.png
 PicInv=art/New Art/Walls/Panel62.png
 Material=5
 
 [Proto]
-ProtoId=30202
+ProtoId=27202
 Type=12
 PicMap=art/New Art/Walls/Panel63.png
 PicInv=art/New Art/Walls/Panel63.png
 Material=5
 
 [Proto]
-ProtoId=30203
+ProtoId=27203
 Type=12
 PicMap=art/New Art/Walls/Panel64.png
 PicInv=art/New Art/Walls/Panel64.png
 Material=5
 
 [Proto]
-ProtoId=30204
+ProtoId=27204
 Type=12
 PicMap=art/New Art/Walls/Panel65.png
 PicInv=art/New Art/Walls/Panel65.png
 Material=5
 
 [Proto]
-ProtoId=30205
+ProtoId=27205
 Type=10
-PicMap=art/New Art/Scenery/Stairs5b.png
-PicInv=art/New Art/Scenery/Stairs5b.png
+PicMap=art\New Art\Scenery\Stairs5b.png
+PicInv=art\New Art\Scenery\Stairs5b.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30206
+ProtoId=27206
 Type=11
-PicMap=art/New Art/Scenery/Stairs5a.png
-PicInv=art/New Art/Scenery/Stairs5a.png
+PicMap=art\New Art\Scenery\Stairs5a.png
+PicInv=art\New Art\Scenery\Stairs5a.png
 
 [Proto]
-ProtoId=30207
+ProtoId=27207
 Type=12
 PicMap=art/New Art/Walls/Panel66.png
 PicInv=art/New Art/Walls/Panel66.png
 Material=5
 
 [Proto]
-ProtoId=30208
+ProtoId=27208
 Type=12
 PicMap=art/New Art/Walls/Panel67.png
 PicInv=art/New Art/Walls/Panel67.png
 Material=5
 
 [Proto]
-ProtoId=30209
+ProtoId=27209
 Type=12
 PicMap=art/New Art/Walls/Panel68.png
 PicInv=art/New Art/Walls/Panel68.png
 Material=5
 
 [Proto]
-ProtoId=30210
+ProtoId=27210
 Type=12
 PicMap=art/New Art/Walls/Panel69.png
 PicInv=art/New Art/Walls/Panel69.png
 Material=5
 
 [Proto]
-ProtoId=30211
+ProtoId=27211
 Type=12
 PicMap=art/New Art/Walls/Panel70.png
 PicInv=art/New Art/Walls/Panel70.png
 Material=5
 
 [Proto]
-ProtoId=30212
+ProtoId=27212
 Type=8
-PicMap=art/New Art/Scenery/Pochta1.frm
-PicInv=art/New Art/Scenery/Pochta1.frm
+PicMap=art\New Art\Scenery\Pochta1.frm
+PicInv=art\New Art\Scenery\Pochta1.frm
 Flags=301994504
 Material=1
 Container_Changeble=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30213
+ProtoId=27213
 Type=11
-PicMap=art/New Art/Scenery/kozirek1.png
-PicInv=art/New Art/Scenery/kozirek1.png
+PicMap=art\New Art\Scenery\kozirek1.png
+PicInv=art\New Art\Scenery\kozirek1.png
 Flags=540
 
 [Proto]
-ProtoId=30214
+ProtoId=27214
 Type=11
-PicMap=art/New Art/Scenery/kachel1.frm
-PicInv=art/New Art/Scenery/kachel1.frm
+PicMap=art\New Art\Scenery\kachel1.frm
+PicInv=art\New Art\Scenery\kachel1.frm
 Corner=5
 Flags=8
 Material=1
 
 [Proto]
-ProtoId=30215
+ProtoId=27215
 Type=11
-PicMap=art/New Art/Scenery/kachel2.frm
-PicInv=art/New Art/Scenery/kachel2.frm
+PicMap=art\New Art\Scenery\kachel2.frm
+PicInv=art\New Art\Scenery\kachel2.frm
 Corner=5
 Flags=8
 Material=1
 
 [Proto]
-ProtoId=30216
+ProtoId=27216
 Type=11
-PicMap=art/New Art/Scenery/kachel3.frm
-PicInv=art/New Art/Scenery/kachel3.frm
+PicMap=art\New Art\Scenery\kachel3.frm
+PicInv=art\New Art\Scenery\kachel3.frm
 Corner=5
 Flags=8
 Material=1
 
 [Proto]
-ProtoId=30217
+ProtoId=27217
 Type=8
-PicMap=art/New Art/Scenery/pesochnc.frm
-PicInv=art/New Art/Scenery/pesochnc.frm
+PicMap=art\New Art\Scenery\pesochnc.frm
+PicInv=art\New Art\Scenery\pesochnc.frm
 Corner=5
 Flags=268435486
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30218
+ProtoId=27218
 Type=11
-PicMap=art/New Art/Scenery/musor1.frm
-PicInv=art/New Art/Scenery/musor1.frm
+PicMap=art\New Art\Scenery\musor1.frm
+PicInv=art\New Art\Scenery\musor1.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30219
+ProtoId=27219
 Type=11
-PicMap=art/New Art/Scenery/musor2.frm
-PicInv=art/New Art/Scenery/musor2.frm
+PicMap=art\New Art\Scenery\musor2.frm
+PicInv=art\New Art\Scenery\musor2.frm
 Corner=5
 Material=1
 
 [Proto]
-ProtoId=30220
+ProtoId=27220
 Type=11
-PicMap=art/New Art/Scenery/Playgr01.FRM
-PicInv=art/New Art/Scenery/Playgr01.FRM
-Corner=5
-Flags=24
-Material=1
-Container_CannotPickUp=1
-
-[Proto]
-ProtoId=30221
-Type=11
-PicMap=art/New Art/Scenery/Playgr02.FRM
-PicInv=art/New Art/Scenery/Playgr02.FRM
+PicMap=art\New Art\Scenery\Playgr01.FRM
+PicInv=art\New Art\Scenery\Playgr01.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30222
+ProtoId=27221
 Type=11
-PicMap=art/New Art/Scenery/Playgr03.FRM
-PicInv=art/New Art/Scenery/Playgr03.FRM
+PicMap=art\New Art\Scenery\Playgr02.FRM
+PicInv=art\New Art\Scenery\Playgr02.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30223
+ProtoId=27222
 Type=11
-PicMap=art/New Art/Scenery/Playgr04.FRM
-PicInv=art/New Art/Scenery/Playgr04.FRM
+PicMap=art\New Art\Scenery\Playgr03.FRM
+PicInv=art\New Art\Scenery\Playgr03.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30224
+ProtoId=27223
 Type=11
-PicMap=art/New Art/Scenery/Playgr05.FRM
-PicInv=art/New Art/Scenery/Playgr05.FRM
+PicMap=art\New Art\Scenery\Playgr04.FRM
+PicInv=art\New Art\Scenery\Playgr04.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30225
+ProtoId=27224
 Type=11
-PicMap=art/New Art/Scenery/Playgr06.FRM
-PicInv=art/New Art/Scenery/Playgr06.FRM
+PicMap=art\New Art\Scenery\Playgr05.FRM
+PicInv=art\New Art\Scenery\Playgr05.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30226
+ProtoId=27225
 Type=11
-PicMap=art/New Art/Scenery/Playgr07.FRM
-PicInv=art/New Art/Scenery/Playgr07.FRM
+PicMap=art\New Art\Scenery\Playgr06.FRM
+PicInv=art\New Art\Scenery\Playgr06.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30227
+ProtoId=27226
 Type=11
-PicMap=art/New Art/Scenery/Playgr08.FRM
-PicInv=art/New Art/Scenery/Playgr08.FRM
+PicMap=art\New Art\Scenery\Playgr07.FRM
+PicInv=art\New Art\Scenery\Playgr07.FRM
 Corner=5
 Flags=24
 Material=1
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30228
+ProtoId=27227
 Type=11
-PicMap=art/New Art/Scenery/TANK1.png
-PicInv=art/New Art/Scenery/TANK1.png
+PicMap=art\New Art\Scenery\Playgr08.FRM
+PicInv=art\New Art\Scenery\Playgr08.FRM
+Corner=5
+Flags=24
+Material=1
+Container_CannotPickUp=1
+
+[Proto]
+ProtoId=27228
+Type=11
+PicMap=art\New Art\Scenery\TANK1.png
+PicInv=art\New Art\Scenery\TANK1.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30229
+ProtoId=27229
 Type=11
-PicMap=art/New Art/Scenery/TANK2.png
-PicInv=art/New Art/Scenery/TANK2.png
+PicMap=art\New Art\Scenery\TANK2.png
+PicInv=art\New Art\Scenery\TANK2.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30230
+ProtoId=27230
 Type=11
-PicMap=art/New Art/Scenery/Ural1.png
-PicInv=art/New Art/Scenery/Ural1.png
+PicMap=art\New Art\Scenery\Ural1.png
+PicInv=art\New Art\Scenery\Ural1.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30231
+ProtoId=27231
 Type=11
-PicMap=art/New Art/Scenery/Ural2.png
-PicInv=art/New Art/Scenery/Ural2.png
+PicMap=art\New Art\Scenery\Ural2.png
+PicInv=art\New Art\Scenery\Ural2.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30232
+ProtoId=27232
 Type=11
-PicMap=art/New Art/Scenery/Ural3.png
-PicInv=art/New Art/Scenery/Ural3.png
+PicMap=art\New Art\Scenery\Ural3.png
+PicInv=art\New Art\Scenery\Ural3.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30233
+ProtoId=27233
 Type=11
-PicMap=art/New Art/Scenery/Ural4.png
-PicInv=art/New Art/Scenery/Ural4.png
+PicMap=art\New Art\Scenery\Ural4.png
+PicInv=art\New Art\Scenery\Ural4.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30234
+ProtoId=27234
 Type=10
-PicMap=art/New Art/Scenery/Stairs6.png
-PicInv=art/New Art/Scenery/Stairs6.png
+PicMap=art\New Art\Scenery\Stairs6.png
+PicInv=art\New Art\Scenery\Stairs6.png
 Corner=5
 Flags=268435456
 Grid_Type=2
 
 [Proto]
-ProtoId=30235
+ProtoId=27235
 Type=11
-PicMap=art/New Art/Scenery/Stairs6b.png
-PicInv=art/New Art/Scenery/Stairs6b.png
+PicMap=art\New Art\Scenery\Stairs6b.png
+PicInv=art\New Art\Scenery\Stairs6b.png
 
 [Proto]
-ProtoId=30236
+ProtoId=27236
 Type=11
-PicMap=art/New Art/Scenery/Gruz1.png
-PicInv=art/New Art/Scenery/Gruz1.png
+PicMap=art\New Art\Scenery\Gruz1.png
+PicInv=art\New Art\Scenery\Gruz1.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30237
+ProtoId=27237
 Type=11
-PicMap=art/New Art/Scenery/Gruz2.png
-PicInv=art/New Art/Scenery/Gruz2.png
+PicMap=art\New Art\Scenery\Gruz2.png
+PicInv=art\New Art\Scenery\Gruz2.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30238
+ProtoId=27238
 Type=11
-PicMap=art/New Art/Scenery/Gruz3.png
-PicInv=art/New Art/Scenery/Gruz3.png
+PicMap=art\New Art\Scenery\Gruz3.png
+PicInv=art\New Art\Scenery\Gruz3.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30239
+ProtoId=27239
 Type=11
-PicMap=art/New Art/Scenery/Gruz4.png
-PicInv=art/New Art/Scenery/Gruz4.png
+PicMap=art\New Art\Scenery\Gruz4.png
+PicInv=art\New Art\Scenery\Gruz4.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30240
+ProtoId=27240
 Type=11
-PicMap=art/New Art/Scenery/WarJeep1.png
-PicInv=art/New Art/Scenery/WarJeep1.png
+PicMap=art\New Art\Scenery\WarJeep1.png
+PicInv=art\New Art\Scenery\WarJeep1.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30241
+ProtoId=27241
 Type=11
-PicMap=art/New Art/Scenery/WarJeep2.png
-PicInv=art/New Art/Scenery/WarJeep2.png
+PicMap=art\New Art\Scenery\WarJeep2.png
+PicInv=art\New Art\Scenery\WarJeep2.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30242
+ProtoId=27242
 Type=11
-PicMap=art/New Art/Scenery/WarJeep3.png
-PicInv=art/New Art/Scenery/WarJeep3.png
+PicMap=art\New Art\Scenery\WarJeep3.png
+PicInv=art\New Art\Scenery\WarJeep3.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30243
+ProtoId=27243
 Type=11
-PicMap=art/New Art/Scenery/pine-full01.png
-PicInv=art/New Art/Scenery/pine-full01.png
+PicMap=art\New Art\Scenery\pine-full01.png
+PicInv=art\New Art\Scenery\pine-full01.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2023,10 +2023,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30244
+ProtoId=27244
 Type=11
-PicMap=art/New Art/Scenery/pine-full02.png
-PicInv=art/New Art/Scenery/pine-full02.png
+PicMap=art\New Art\Scenery\pine-full02.png
+PicInv=art\New Art\Scenery\pine-full02.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2034,10 +2034,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30245
+ProtoId=27245
 Type=11
-PicMap=art/New Art/Scenery/pine-full03.png
-PicInv=art/New Art/Scenery/pine-full03.png
+PicMap=art\New Art\Scenery\pine-full03.png
+PicInv=art\New Art\Scenery\pine-full03.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2045,10 +2045,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30246
+ProtoId=27246
 Type=11
-PicMap=art/New Art/Scenery/pine-full04.png
-PicInv=art/New Art/Scenery/pine-full04.png
+PicMap=art\New Art\Scenery\pine-full04.png
+PicInv=art\New Art\Scenery\pine-full04.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2056,10 +2056,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30247
+ProtoId=27247
 Type=11
-PicMap=art/New Art/Scenery/pine-full05.png
-PicInv=art/New Art/Scenery/pine-full05.png
+PicMap=art\New Art\Scenery\pine-full05.png
+PicInv=art\New Art\Scenery\pine-full05.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2067,10 +2067,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30248
+ProtoId=27248
 Type=11
-PicMap=art/New Art/Scenery/pine-full06.png
-PicInv=art/New Art/Scenery/pine-full06.png
+PicMap=art\New Art\Scenery\pine-full06.png
+PicInv=art\New Art\Scenery\pine-full06.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2078,10 +2078,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30249
+ProtoId=27249
 Type=11
-PicMap=art/New Art/Scenery/pine-full07.png
-PicInv=art/New Art/Scenery/pine-full07.png
+PicMap=art\New Art\Scenery\pine-full07.png
+PicInv=art\New Art\Scenery\pine-full07.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2089,10 +2089,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30250
+ProtoId=27250
 Type=11
-PicMap=art/New Art/Scenery/pine-full08.png
-PicInv=art/New Art/Scenery/pine-full08.png
+PicMap=art\New Art\Scenery\pine-full08.png
+PicInv=art\New Art\Scenery\pine-full08.png
 Flags=33587720
 Material=3
 LightDistance=3
@@ -2100,56 +2100,56 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30251
+ProtoId=27251
 Type=11
-PicMap=art/New Art/Scenery/BTR2.png
-PicInv=art/New Art/Scenery/BTR2.png
+PicMap=art\New Art\Scenery\BTR2.png
+PicInv=art\New Art\Scenery\BTR2.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30252
+ProtoId=27252
 Type=11
-PicMap=art/New Art/Scenery/BTR3.png
-PicInv=art/New Art/Scenery/BTR3.png
+PicMap=art\New Art\Scenery\BTR3.png
+PicInv=art\New Art\Scenery\BTR3.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30253
+ProtoId=27253
 Type=11
-PicMap=art/New Art/Scenery/BTR4.png
-PicInv=art/New Art/Scenery/BTR4.png
+PicMap=art\New Art\Scenery\BTR4.png
+PicInv=art\New Art\Scenery\BTR4.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30254
+ProtoId=27254
 Type=11
-PicMap=art/New Art/Scenery/BTR5.png
-PicInv=art/New Art/Scenery/BTR5.png
+PicMap=art\New Art\Scenery\BTR5.png
+PicInv=art\New Art\Scenery\BTR5.png
 Corner=4
 Material=1
 
 [Proto]
-ProtoId=30255
+ProtoId=27255
 Type=11
-PicMap=art/New Art/Scenery/Aurora/Aurora.fofrm
-PicInv=art/New Art/Scenery/Aurora/Aurora.fofrm
+PicMap=art\New Art\Scenery\Aurora/Aurora.fofrm
+PicInv=art\New Art\Scenery\Aurora/Aurora.fofrm
 Flags=33599512
 
 [Proto]
-ProtoId=30256
+ProtoId=27256
 Type=11
-PicMap=art/New Art/Scenery/Aurora/Aurora2.fofrm
-PicInv=art/New Art/Scenery/Aurora/Aurora2.fofrm
+PicMap=art\New Art\Scenery\Aurora/Aurora2.fofrm
+PicInv=art\New Art\Scenery\Aurora/Aurora2.fofrm
 Flags=33599512
 
 [Proto]
-ProtoId=30257
+ProtoId=27257
 Type=11
-PicMap=art/New Art/Scenery/Hangar.png
-PicInv=art/New Art/Scenery/Hangar.png
+PicMap=art\New Art\Scenery\Hangar.png
+PicInv=art\New Art\Scenery\Hangar.png
 Flags=33587712
 Material=3
 LightDistance=3
@@ -2157,35 +2157,35 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30258
+ProtoId=27258
 Type=11
-PicMap=art/New Art/Scenery/Fog/Fog.fofrm
-PicInv=art/New Art/Scenery/Fog/Fog.fofrm
+PicMap=art\New Art\Scenery\Fog/Fog.fofrm
+PicInv=art\New Art\Scenery\Fog/Fog.fofrm
 Flags=33599512
 
 [Proto]
-ProtoId=30259
+ProtoId=27259
 Type=12
 PicMap=art/New Art/Walls/srb0100.frm
 PicInv=art/New Art/Walls/srb0100.frm
 Material=5
 
 [Proto]
-ProtoId=30260
+ProtoId=27260
 Type=12
 PicMap=art/New Art/Walls/srb0101.frm
 PicInv=art/New Art/Walls/srb0101.frm
 Material=5
 
 [Proto]
-ProtoId=30261
+ProtoId=27261
 Type=12
 PicMap=art/New Art/Walls/srb0110.frm
 PicInv=art/New Art/Walls/srb0110.frm
 Material=5
 
 [Proto]
-ProtoId=30262
+ProtoId=27262
 Type=12
 PicMap=art/New Art/Walls/srb0111.frm
 PicInv=art/New Art/Walls/srb0111.frm
@@ -2193,28 +2193,28 @@ Flags=28
 Material=5
 
 [Proto]
-ProtoId=30263
+ProtoId=27263
 Type=12
 PicMap=art/New Art/Walls/srb0112.frm
 PicInv=art/New Art/Walls/srb0112.frm
 Material=5
 
 [Proto]
-ProtoId=30264
+ProtoId=27264
 Type=12
 PicMap=art/New Art/Walls/srb0120.frm
 PicInv=art/New Art/Walls/srb0120.frm
 Material=5
 
 [Proto]
-ProtoId=30265
+ProtoId=27265
 Type=12
 PicMap=art/New Art/Walls/srb0121.frm
 PicInv=art/New Art/Walls/srb0121.frm
 Material=5
 
 [Proto]
-ProtoId=30266
+ProtoId=27266
 Type=12
 PicMap=art/New Art/Walls/srb0130.frm
 PicInv=art/New Art/Walls/srb0130.frm
@@ -2222,7 +2222,7 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30267
+ProtoId=27267
 Type=12
 PicMap=art/New Art/Walls/srb0140.frm
 PicInv=art/New Art/Walls/srb0140.frm
@@ -2230,14 +2230,14 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30268
+ProtoId=27268
 Type=12
 PicMap=art/New Art/Walls/srb0150.frm
 PicInv=art/New Art/Walls/srb0150.frm
 Material=5
 
 [Proto]
-ProtoId=30269
+ProtoId=27269
 Type=12
 PicMap=art/New Art/Walls/srb0151.frm
 PicInv=art/New Art/Walls/srb0151.frm
@@ -2245,35 +2245,35 @@ Flags=28
 Material=5
 
 [Proto]
-ProtoId=30270
+ProtoId=27270
 Type=12
 PicMap=art/New Art/Walls/srb0152.frm
 PicInv=art/New Art/Walls/srb0152.frm
 Material=5
 
 [Proto]
-ProtoId=30271
+ProtoId=27271
 Type=12
 PicMap=art/New Art/Walls/srb0160.frm
 PicInv=art/New Art/Walls/srb0160.frm
 Material=5
 
 [Proto]
-ProtoId=30272
+ProtoId=27272
 Type=12
 PicMap=art/New Art/Walls/srb0161.frm
 PicInv=art/New Art/Walls/srb0161.frm
 Material=5
 
 [Proto]
-ProtoId=30273
+ProtoId=27273
 Type=12
 PicMap=art/New Art/Walls/srb0200.frm
 PicInv=art/New Art/Walls/srb0200.frm
 Material=5
 
 [Proto]
-ProtoId=30274
+ProtoId=27274
 Type=12
 PicMap=art/New Art/Walls/srb0210.frm
 PicInv=art/New Art/Walls/srb0210.frm
@@ -2281,21 +2281,21 @@ Flags=28
 Material=5
 
 [Proto]
-ProtoId=30275
+ProtoId=27275
 Type=12
 PicMap=art/New Art/Walls/srb0211.frm
 PicInv=art/New Art/Walls/srb0211.frm
 Material=5
 
 [Proto]
-ProtoId=30276
+ProtoId=27276
 Type=12
 PicMap=art/New Art/Walls/srb0220.frm
 PicInv=art/New Art/Walls/srb0220.frm
 Material=5
 
 [Proto]
-ProtoId=30277
+ProtoId=27277
 Type=12
 PicMap=art/New Art/Walls/srb0221.frm
 PicInv=art/New Art/Walls/srb0221.frm
@@ -2303,14 +2303,14 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30278
+ProtoId=27278
 Type=12
 PicMap=art/New Art/Walls/srb0230.frm
 PicInv=art/New Art/Walls/srb0230.frm
 Material=5
 
 [Proto]
-ProtoId=30279
+ProtoId=27279
 Type=12
 PicMap=art/New Art/Walls/srb0231.frm
 PicInv=art/New Art/Walls/srb0231.frm
@@ -2318,28 +2318,28 @@ Flags=28
 Material=5
 
 [Proto]
-ProtoId=30280
+ProtoId=27280
 Type=12
 PicMap=art/New Art/Walls/srb0240.frm
 PicInv=art/New Art/Walls/srb0240.frm
 Material=5
 
 [Proto]
-ProtoId=30281
+ProtoId=27281
 Type=12
 PicMap=art/New Art/Walls/srb0250.frm
 PicInv=art/New Art/Walls/srb0250.frm
 Material=5
 
 [Proto]
-ProtoId=30282
+ProtoId=27282
 Type=12
 PicMap=art/New Art/Walls/srb0910.frm
 PicInv=art/New Art/Walls/srb0910.frm
 Material=5
 
 [Proto]
-ProtoId=30283
+ProtoId=27283
 Type=12
 PicMap=art/New Art/Walls/srb0911.frm
 PicInv=art/New Art/Walls/srb0911.frm
@@ -2347,105 +2347,105 @@ Flags=24
 Material=5
 
 [Proto]
-ProtoId=30284
+ProtoId=27284
 Type=12
 PicMap=art/New Art/Walls/srb0912.frm
 PicInv=art/New Art/Walls/srb0912.frm
 Material=5
 
 [Proto]
-ProtoId=30285
+ProtoId=27285
 Type=12
 PicMap=art/New Art/Walls/srb0920.frm
 PicInv=art/New Art/Walls/srb0920.frm
 Material=5
 
 [Proto]
-ProtoId=30286
+ProtoId=27286
 Type=12
 PicMap=art/New Art/Walls/srb0921.frm
 PicInv=art/New Art/Walls/srb0921.frm
 Material=5
 
 [Proto]
-ProtoId=30287
+ProtoId=27287
 Type=12
 PicMap=art/New Art/Walls/srb0930.frm
 PicInv=art/New Art/Walls/srb0930.frm
 Material=5
 
 [Proto]
-ProtoId=30288
+ProtoId=27288
 Type=12
 PicMap=art/New Art/Walls/srb0931.frm
 PicInv=art/New Art/Walls/srb0931.frm
 Material=5
 
 [Proto]
-ProtoId=30289
+ProtoId=27289
 Type=12
 PicMap=art/New Art/Walls/srb0940.frm
 PicInv=art/New Art/Walls/srb0940.frm
 Material=5
 
 [Proto]
-ProtoId=30290
+ProtoId=27290
 Type=12
 PicMap=art/New Art/Walls/srb0941.frm
 PicInv=art/New Art/Walls/srb0941.frm
 Material=5
 
 [Proto]
-ProtoId=30291
+ProtoId=27291
 Type=12
 PicMap=art/New Art/Walls/srb1000.frm
 PicInv=art/New Art/Walls/srb1000.frm
 Material=5
 
 [Proto]
-ProtoId=30292
+ProtoId=27292
 Type=12
 PicMap=art/New Art/Walls/srb1001.frm
 PicInv=art/New Art/Walls/srb1001.frm
 Material=5
 
 [Proto]
-ProtoId=30293
+ProtoId=27293
 Type=12
 PicMap=art/New Art/Walls/srb2000.frm
 PicInv=art/New Art/Walls/srb2000.frm
 Material=5
 
 [Proto]
-ProtoId=30294
+ProtoId=27294
 Type=12
 PicMap=art/New Art/Walls/srb3000.frm
 PicInv=art/New Art/Walls/srb3000.frm
 Material=5
 
 [Proto]
-ProtoId=30295
+ProtoId=27295
 Type=12
 PicMap=art/New Art/Walls/srb4000.frm
 PicInv=art/New Art/Walls/srb4000.frm
 Material=5
 
 [Proto]
-ProtoId=30296
+ProtoId=27296
 Type=10
-PicMap=art/New Art/Scenery/Stairs7b.png
-PicInv=art/New Art/Scenery/Stairs7b.png
+PicMap=art\New Art\Scenery\Stairs7b.png
+PicInv=art\New Art\Scenery\Stairs7b.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30297
+ProtoId=27297
 Type=10
-PicMap=art/New Art/Scenery/Stairs7a.png
-PicInv=art/New Art/Scenery/Stairs7a.png
+PicMap=art\New Art\Scenery\Stairs7a.png
+PicInv=art\New Art\Scenery\Stairs7a.png
 Grid_Type=2
 
 [Proto]
-ProtoId=30298
+ProtoId=27298
 Type=5
 PicMap=art/New Art/Items/Toy11.png
 PicInv=art/New Art/Items/Toy1.png
@@ -2457,7 +2457,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30299
+ProtoId=27299
 Type=5
 PicMap=art/New Art/Items/Toy22.png
 PicInv=art/New Art/Items/Toy2.png
@@ -2469,7 +2469,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30300
+ProtoId=27300
 Type=5
 PicMap=art/New Art/Items/Toy33.png
 PicInv=art/New Art/Items/Toy3.png
@@ -2481,7 +2481,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30301
+ProtoId=27301
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Fist.fofrm
 PicInv=art/New Art/Moscow/Moscou_Fist.fofrm
@@ -2492,7 +2492,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30302
+ProtoId=27302
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Fist1.fofrm
 PicInv=art/New Art/Moscow/Moscou_Fist1.fofrm
@@ -2503,7 +2503,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30303
+ProtoId=27303
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Fist2.fofrm
 PicInv=art/New Art/Moscow/Moscou_Fist2.fofrm
@@ -2514,7 +2514,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30304
+ProtoId=27304
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Kremtower.fofrm
 PicInv=art/New Art/Moscow/Moscou_Kremtower.fofrm
@@ -2525,7 +2525,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30305
+ProtoId=27305
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Kremtower_low.fofrm
 PicInv=art/New Art/Moscow/Moscou_Kremtower_low.fofrm
@@ -2536,7 +2536,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30306
+ProtoId=27306
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Kremtower_low1.fofrm
 PicInv=art/New Art/Moscow/Moscou_Kremtower_low1.fofrm
@@ -2547,7 +2547,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30307
+ProtoId=27307
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Kremtower_low2.fofrm
 PicInv=art/New Art/Moscow/Moscou_Kremtower_low2.fofrm
@@ -2558,7 +2558,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30308
+ProtoId=27308
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Kremtower1.fofrm
 PicInv=art/New Art/Moscow/Moscou_Kremtower1.fofrm
@@ -2569,7 +2569,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30309
+ProtoId=27309
 Type=11
 PicMap=art/New Art/Moscow/Moscou_left.fofrm
 PicInv=art/New Art/Moscow/Moscou_left.fofrm
@@ -2580,7 +2580,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30310
+ProtoId=27310
 Type=11
 PicMap=art/New Art/Moscow/Moscou_left1.fofrm
 PicInv=art/New Art/Moscow/Moscou_left1.fofrm
@@ -2591,7 +2591,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30311
+ProtoId=27311
 Type=11
 PicMap=art/New Art/Moscow/Moscou_right_down.fofrm
 PicInv=art/New Art/Moscow/Moscou_right_down.fofrm
@@ -2602,7 +2602,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30312
+ProtoId=27312
 Type=11
 PicMap=art/New Art/Moscow/Moscou_right_down1.fofrm
 PicInv=art/New Art/Moscow/Moscou_right_down1.fofrm
@@ -2613,7 +2613,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30313
+ProtoId=27313
 Type=11
 PicMap=art/New Art/Moscow/Moscou_right_down2.fofrm
 PicInv=art/New Art/Moscow/Moscou_right_down2.fofrm
@@ -2624,7 +2624,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30314
+ProtoId=27314
 Type=11
 PicMap=art/New Art/Moscow/Moscou_up.fofrm
 PicInv=art/New Art/Moscow/Moscou_up.fofrm
@@ -2635,7 +2635,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30315
+ProtoId=27315
 Type=11
 PicMap=art/New Art/Moscow/Moscou_wall_up.fofrm
 PicInv=art/New Art/Moscow/Moscou_wall_up.fofrm
@@ -2646,7 +2646,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30316
+ProtoId=27316
 Type=11
 PicMap=art/New Art/Moscow/Moscou_wall_up1.fofrm
 PicInv=art/New Art/Moscow/Moscou_wall_up1.fofrm
@@ -2657,7 +2657,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30317
+ProtoId=27317
 Type=9
 PicMap=art/New Art/Moscow/Moscou_door.FRM
 PicInv=art/New Art/Moscow/Moscou_door.FRM
@@ -2668,7 +2668,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30318
+ProtoId=27318
 Type=11
 PicMap=art/New Art/Moscow/Moscou_craterL.png
 PicInv=art/New Art/Moscow/Moscou_craterL.png
@@ -2679,7 +2679,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30319
+ProtoId=27319
 Type=11
 PicMap=art/New Art/Moscow/Moscou_craterS.png
 PicInv=art/New Art/Moscow/Moscou_craterS.png
@@ -2690,7 +2690,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30320
+ProtoId=27320
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_centerA.png
 PicInv=art/New Art/Moscow/Moscou_Ground_centerA.png
@@ -2701,7 +2701,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30321
+ProtoId=27321
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_centerB.png
 PicInv=art/New Art/Moscow/Moscou_Ground_centerB.png
@@ -2712,7 +2712,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30322
+ProtoId=27322
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_leftA.png
 PicInv=art/New Art/Moscow/Moscou_Ground_leftA.png
@@ -2723,7 +2723,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30323
+ProtoId=27323
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_leftB.png
 PicInv=art/New Art/Moscow/Moscou_Ground_leftB.png
@@ -2734,7 +2734,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30324
+ProtoId=27324
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_right_fist.png
 PicInv=art/New Art/Moscow/Moscou_Ground_right_fist.png
@@ -2745,7 +2745,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30325
+ProtoId=27325
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_rightA.png
 PicInv=art/New Art/Moscow/Moscou_Ground_rightA.png
@@ -2756,7 +2756,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30326
+ProtoId=27326
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_rightB.png
 PicInv=art/New Art/Moscow/Moscou_Ground_rightB.png
@@ -2767,7 +2767,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30327
+ProtoId=27327
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_StBasil.png
 PicInv=art/New Art/Moscow/Moscou_Ground_StBasil.png
@@ -2778,7 +2778,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30328
+ProtoId=27328
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_upA.png
 PicInv=art/New Art/Moscow/Moscou_Ground_upA.png
@@ -2789,7 +2789,7 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30329
+ProtoId=27329
 Type=11
 PicMap=art/New Art/Moscow/Moscou_Ground_upB.png
 PicInv=art/New Art/Moscow/Moscou_Ground_upB.png
@@ -2800,10 +2800,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30330
+ProtoId=27330
 Type=8
-PicMap=art/New Art/Scenery/cigsvending.png
-PicInv=art/New Art/Scenery/cigsvending.png
+PicMap=art\New Art\Scenery\cigsvending.png
+PicInv=art\New Art\Scenery\cigsvending.png
 Flags=302026760
 Material=1
 LightDistance=3
@@ -2812,10 +2812,10 @@ LightColor=335553280
 Container_CannotPickUp=1
 
 [Proto]
-ProtoId=30331
+ProtoId=27331
 Type=11
-PicMap=art/New Art/Scenery/Gastronom.frm
-PicInv=art/New Art/Scenery/Gastronom.frm
+PicMap=art\New Art\Scenery\Gastronom.frm
+PicInv=art\New Art\Scenery\Gastronom.frm
 Flags=33591816
 Material=1
 LightDistance=3
@@ -2823,10 +2823,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30332
+ProtoId=27332
 Type=11
-PicMap=art/New Art/Scenery/komin1.fofrm
-PicInv=art/New Art/Scenery/komin1.fofrm
+PicMap=art\New Art\Scenery\komin1.fofrm
+PicInv=art\New Art\Scenery\komin1.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2834,10 +2834,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30333
+ProtoId=27333
 Type=11
-PicMap=art/New Art/Scenery/komin2.fofrm
-PicInv=art/New Art/Scenery/komin2.fofrm
+PicMap=art\New Art\Scenery\komin2.fofrm
+PicInv=art\New Art\Scenery\komin2.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2845,10 +2845,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30334
+ProtoId=27334
 Type=11
-PicMap=art/New Art/Scenery/komin3.fofrm
-PicInv=art/New Art/Scenery/komin3.fofrm
+PicMap=art\New Art\Scenery\komin3.fofrm
+PicInv=art\New Art\Scenery\komin3.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2856,10 +2856,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30335
+ProtoId=27335
 Type=11
-PicMap=art/New Art/Scenery/komin4.fofrm
-PicInv=art/New Art/Scenery/komin4.fofrm
+PicMap=art\New Art\Scenery\komin4.fofrm
+PicInv=art\New Art\Scenery\komin4.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2867,10 +2867,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30336
+ProtoId=27336
 Type=11
-PicMap=art/New Art/Scenery/komin5.fofrm
-PicInv=art/New Art/Scenery/komin5.fofrm
+PicMap=art\New Art\Scenery\komin5.fofrm
+PicInv=art\New Art\Scenery\komin5.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2878,10 +2878,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30337
+ProtoId=27337
 Type=11
-PicMap=art/New Art/Scenery/komin6.fofrm
-PicInv=art/New Art/Scenery/komin6.fofrm
+PicMap=art\New Art\Scenery\komin6.fofrm
+PicInv=art\New Art\Scenery\komin6.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2889,10 +2889,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30338
+ProtoId=27338
 Type=11
-PicMap=art/New Art/Scenery/komin7.fofrm
-PicInv=art/New Art/Scenery/komin7.fofrm
+PicMap=art\New Art\Scenery\komin7.fofrm
+PicInv=art\New Art\Scenery\komin7.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2900,10 +2900,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30339
+ProtoId=27339
 Type=11
-PicMap=art/New Art/Scenery/komin8.fofrm
-PicInv=art/New Art/Scenery/komin8.fofrm
+PicMap=art\New Art\Scenery\komin8.fofrm
+PicInv=art\New Art\Scenery\komin8.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2911,10 +2911,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30340
+ProtoId=27340
 Type=11
-PicMap=art/New Art/Scenery/komin9.fofrm
-PicInv=art/New Art/Scenery/komin9.fofrm
+PicMap=art\New Art\Scenery\komin9.fofrm
+PicInv=art\New Art\Scenery\komin9.fofrm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2922,10 +2922,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30341
+ProtoId=27341
 Type=11
-PicMap=art/New Art/Scenery/kominC1.fofrm
-PicInv=art/New Art/Scenery/kominC1.fofrm
+PicMap=art\New Art\Scenery\kominC1.fofrm
+PicInv=art\New Art\Scenery\kominC1.fofrm
 Flags=33591838
 Material=1
 LightDistance=3
@@ -2933,10 +2933,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30342
+ProtoId=27342
 Type=11
-PicMap=art/New Art/Scenery/kominC2.fofrm
-PicInv=art/New Art/Scenery/kominC2.fofrm
+PicMap=art\New Art\Scenery\kominC2.fofrm
+PicInv=art\New Art\Scenery\kominC2.fofrm
 Flags=33591838
 Material=1
 LightDistance=3
@@ -2944,10 +2944,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30343
+ProtoId=27343
 Type=11
-PicMap=art/New Art/Scenery/kiosk.frm
-PicInv=art/New Art/Scenery/kiosk.frm
+PicMap=art\New Art\Scenery\kiosk.frm
+PicInv=art\New Art\Scenery\kiosk.frm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2955,10 +2955,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30344
+ProtoId=27344
 Type=11
-PicMap=art/New Art/Scenery/kiosk2.frm
-PicInv=art/New Art/Scenery/kiosk2.frm
+PicMap=art\New Art\Scenery\kiosk2.frm
+PicInv=art\New Art\Scenery\kiosk2.frm
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2966,10 +2966,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30345
+ProtoId=27345
 Type=11
-PicMap=art/New Art/Scenery/PoezdTank1.png
-PicInv=art/New Art/Scenery/PoezdTank1.png
+PicMap=art\New Art\Scenery\PoezdTank1.png
+PicInv=art\New Art\Scenery\PoezdTank1.png
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2977,10 +2977,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30346
+ProtoId=27346
 Type=11
-PicMap=art/New Art/Scenery/PoezdTank2.png
-PicInv=art/New Art/Scenery/PoezdTank2.png
+PicMap=art\New Art\Scenery\PoezdTank2.png
+PicInv=art\New Art\Scenery\PoezdTank2.png
 Flags=33591808
 Material=1
 LightDistance=3
@@ -2988,10 +2988,10 @@ LightIntensity=5
 LightColor=335553280
 
 [Proto]
-ProtoId=30347
+ProtoId=27347
 Type=11
-PicMap=art/New Art/Scenery/train-bumper1.fofrm
-PicInv=art/New Art/Scenery/train-bumper1.fofrm
+PicMap=art\New Art\Scenery\train-bumper1.fofrm
+PicInv=art\New Art\Scenery\train-bumper1.fofrm
 Flags=33591816
 Material=1
 LightDistance=3
