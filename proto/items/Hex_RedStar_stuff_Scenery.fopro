@@ -2998,3 +2998,80 @@ LightDistance=3
 LightIntensity=5
 LightColor=335553280
 
+[Proto]
+ProtoId=27348
+Type=11
+PicMap=art\New Art\Scenery\SnowCave14.png
+PicInv=art\New Art\Scenery\SnowCave14.png
+Flags=6
+
+[Proto]
+ProtoId=27349
+Type=11
+PicMap=art\New Art\Scenery\SnowCave15.png
+PicInv=art\New Art\Scenery\SnowCave15.png
+Flags=6
+
+[Proto]
+ProtoId=27350
+Type=11
+PicMap=art\New Art\Scenery\SnowCave16.png
+PicInv=art\New Art\Scenery\SnowCave16.png
+Flags=6
+
+[Proto]
+ProtoId=27351
+Type=11
+PicMap=art\New Art\Scenery\SnowCave17.png
+PicInv=art\New Art\Scenery\SnowCave17.png
+Flags=6
+
+[Proto]
+ProtoId=27352
+Type=11
+PicMap=art\New Art\Scenery\SnowCave18.png
+PicInv=art\New Art\Scenery\SnowCave18.png
+Flags=6
+
+[Proto]
+ProtoId=27353
+Type=11
+PicMap=art\New Art\Scenery\SnowCave19.png
+PicInv=art\New Art\Scenery\SnowCave19.png
+Flags=6
+
+[Proto]
+ProtoId=27354
+Type=11
+PicMap=art\New Art\Scenery\SnowCave20.png
+PicInv=art\New Art\Scenery\SnowCave20.png
+Flags=6
+
+[Proto]
+ProtoId=27355
+Type=11
+PicMap=art\New Art\Scenery\SnowCave21.png
+PicInv=art\New Art\Scenery\SnowCave21.png
+Flags=6
+
+[Proto]
+ProtoId=27356
+Type=11
+PicMap=art\New Art\Scenery\SnowCave22.png
+PicInv=art\New Art\Scenery\SnowCave22.png
+Flags=6
+
+[Proto]
+ProtoId=27357
+Type=11
+PicMap=art\New Art\Scenery\SnowCave23.png
+PicInv=art\New Art\Scenery\SnowCave23.png
+Flags=6
+
+[Proto]
+ProtoId=27358
+Type=11
+PicMap=art\New Art\Scenery\SnowCave24.png
+PicInv=art\New Art\Scenery\SnowCave24.png
+Flags=6
+
